@@ -1,0 +1,43 @@
+
+
+html,body {
+  margin: 0;
+  font-family: $font-family;
+  font-size: $font-size;
+}
+
+body {
+  line-height: $line-height;
+  color: $dark;
+}
+
+h1,.h1 {
+  font-size: 44px;
+}
+
+h2,.h2 {
+  font-size: 38px;
+}
+
+h3,.h3 {
+  font-size: 32px;
+}
+
+h4,.h4 {
+  font-size: 26px;
+}
+
+h5,.h5 {
+  font-size: 20px;
+}
+
+h6,.h6 {
+  font-size: 16px;
+}
+
+h1,h2,h3,h4,h5,h6,
+.h1,.h2,.h3,.h4,.h5,.h6 {
+  font-weight: 500;
+  line-height: 1.35;
+  margin-bottom: 8px;
+}

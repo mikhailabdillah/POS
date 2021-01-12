@@ -1,0 +1,36 @@
+.invoice-card {
+  position: relative;
+  display: block;
+  border-radius: 8px;
+
+  .wrapper {
+    padding: 20px;
+  }
+
+  .divider {
+    margin: 16px -20px;
+    height: 1px;
+  }
+
+  .list {
+    display: flex;
+    padding: 4px 0;
+    flex-direction: row;
+    justify-content: space-between;
+    font-weight: 600;
+
+    &.total-invoice {
+      font-size: 20px;
+
+      >span:first-child {
+        color: $dark;
+        font-weight: 600;
+      }
+    }
+
+    >span:first-child {
+      color: $gray;
+      font-weight: 400;
+    }
+  }
+}
