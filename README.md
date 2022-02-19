@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Point of Sales Web Apps](https://cdn.dribbble.com/users/2512859/screenshots/6783221/pos_-_coffe_shop.png "Point of Sales")
+
 ## Available Scripts
 
 In the project directory, you can run:
