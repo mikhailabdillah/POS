@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Point of Sales App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+POS app made with React Js
 
 ![Point of Sales Web Apps](https://cdn.dribbble.com/users/2512859/screenshots/6783221/pos_-_coffe_shop.png "Point of Sales")
 
